@@ -1,0 +1,21 @@
+.praveen-image{
+    height:100px;
+    width:100px;
+
+}
+.praveen-image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-nav-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.single-button{
+    margin:10px;
+}
+.nav-main-container{
+    background: linear-gradient(to right, #e0e0e0, pink);
+}
